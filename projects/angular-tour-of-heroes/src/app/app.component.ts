@@ -6,9 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
-
-  constructor() {
-    console.log('test')
-  }
+  title = 'angular-tour-of-heroes';
 }
